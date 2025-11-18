@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 import base64
 import os
 
-st.set_page_config(page_title="Dear Jani 💗", layout="wide")
+st.set_page_config(page_title="Dear Vinny 💗", layout="wide")
 
 # Function to convert image to base64
 def get_image_base64(file_path):
