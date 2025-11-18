@@ -16,21 +16,21 @@ def get_image_base64(file_path):
 
 # List of image paths and captions (assuming images are in root directory)
 slides = [
-    {"caption": "one of our first gmeets", "filename": "1.jpg"},
-    {"caption": "akis first tatto for jani", "filename": "2.jpg"},
+    {"caption": "core memory of uss", "filename": "1.jpg"},
+    {"caption": "aki and vinny on the terrace", "filename": "2.jpg"},
     {"caption": "the eyes I fell in love with", "filename": "3.jpg"},
-    {"caption": "the first pic I saw of u", "filename": "4.jpg"},
+    {"caption": "our first cheers!", "filename": "4.jpg"},
     {"caption": "how my gf looks like", "filename": "5.jpg"},
-    {"caption": "but how it feels like talking to her", "filename": "6.jpg"},
-    {"caption": "one of akis key memory of gmeets", "filename": "7.jpg"},
-    {"caption": "aki and jani meet for the first timeeeee", "filename": "8.jpg"},
-    {"caption": "aki and jani hold hands for the first timee", "filename": "9.jpg"},
-    {"caption": "our first kisss!", "filename": "10.jpg"},
-    {"caption": "together, foreverr!", "filename": "11.jpg"},
-    {"caption": "jani being jani", "filename": "12.jpg"},
-    {"caption": "our first mirror pic", "filename": "13.jpg"},
-    {"caption": "janis first painting ab aki and jani and family", "filename": "14.jpg"},
-    {"caption": "janis iconic heart XD", "filename": "15.jpg"},
+    {"caption": "life feels so good when she is beside", "filename": "6.jpg"},
+    {"caption": "cute shoes hehe", "filename": "7.jpg"},
+    {"caption": "one of the first pic of us together as a couple!", "filename": "8.jpg"},
+    {"caption": "i love her eyes so much ahhh", "filename": "9.jpg"},
+    {"caption": "our first cab ride togetherr", "filename": "10.jpg"},
+    {"caption": "confused couple lol", "filename": "11.jpg"},
+    {"caption": "peak bower mun fits", "filename": "12.jpg"},
+    {"caption": "and just like that", "filename": "13.jpg"},
+    {"caption": "an entire month has passed...", "filename": "14.jpg"},
+    {"caption": "I love you bangaram!!!", "filename": "15.jpg"},
 ]
 
 # Convert images to base64
